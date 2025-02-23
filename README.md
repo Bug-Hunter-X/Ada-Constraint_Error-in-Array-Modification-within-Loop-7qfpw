@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming related to array indexing and loop iteration. The code attempts to modify an array element while iterating through its indices, leading to a `Constraint_Error` exception when the loop variable is used directly for both indexing and modification. The solution shows the correct approach to avoid this issue.
